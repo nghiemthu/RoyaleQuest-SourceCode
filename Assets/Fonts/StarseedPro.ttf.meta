@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fe434695a715e784699bf0f7c56e81db
+timeCreated: 1474140801
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Starseed Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84f6549faeaec054283d383fc2814111, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

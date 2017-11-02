@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 7553756e89a813444a216315aecca4df
+timeCreated: 1474127862
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ShootingGameCharacter_0
+    21300002: ShootingGameCharacter_1
+    21300004: ShootingGameCharacter_2
+    21300006: ShootingGameCharacter_3
+    21300008: ShootingGameCharacter_4
+    21300010: ShootingGameCharacter_5
+    21300012: ShootingGameCharacter_6
+    21300014: ShootingGameCharacter_7
+    21300016: ShootingGameCharacter_8
+    21300018: ShootingGameCharacter_9
+    21300020: ShootingGameCharacter_10
+    21300022: ShootingGameCharacter_11
+    21300024: ShootingGameCharacter_12
+    21300026: ShootingGameCharacter_13
+    21300028: ShootingGameCharacter_14
+    21300030: ShootingGameCharacter_15
+    21300032: ShootingGameCharacter_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShootingGameCharacter_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 483
+        width: 115
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 483
+        width: 116
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 529
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 491
+        width: 138
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_4
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 483
+        width: 136
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_5
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 488
+        width: 170
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_6
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 539
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_7
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 483
+        width: 120
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 327
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 301
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 305
+        width: 106
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 348
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_12
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 301
+        width: 96
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 289
+        width: 132
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 289
+        width: 123
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_15
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 291
+        width: 141
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ShootingGameCharacter_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 84
+        width: 120
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
